@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://australia-points-test.tabutility.com/sitemap.xml
